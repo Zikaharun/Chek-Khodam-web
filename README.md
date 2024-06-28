@@ -1,0 +1,1 @@
+Project Cek-Khodam-web adalah web sederhana yang bisa kalian gunakan untuk mengecek isian(khodam) anda apakah anda punya atau tidak. Tentu ini hanyalah web sederhana yang dibuat untuk senang senang dan hiburan saja.
